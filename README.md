@@ -11,7 +11,9 @@ Evaluating criteria will be the textures, atmospheric effects and the compositio
 Terragen is a software oriented to the implementation of landscapes by using fractal algorithms to define the terrain and the clouds, where a pipeline scheme for generating the image will be needed. 
 
 ## Installation and execution
-
+1. Download and install [Terragen 4](https://planetside.co.uk/free-downloads/terragen-4-free-download/) (only for Windows).
+2. Open the application and load `src/main.tgd` (`File`>`Open`)
+3. Render the image (`View`>`Render`>`Render`)
 
 ## Useful links
 These are links that may be useful for this exercise:
