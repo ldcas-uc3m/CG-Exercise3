@@ -15,8 +15,13 @@ Terragen is a software oriented to the implementation of landscapes by using fra
 2. Open the application and load `src/main.tgd` (`File`>`Open`)
 3. Render the image (`View`>`Render`>`Render`)
 
+The result should be something like this:
+
+![Result image](img/main.png)
+
+
 ## Useful links
 These are links that may be useful for this exercise:
 
 - [Terragen wiki](https://planetside.co.uk/wiki/index.php?title=Main_Page)
-- [Example](https://www.pinterest.es/pin/380413499769134831/)
+- [Examples](https://www.pinterest.es/pin/380413499769134831/)
